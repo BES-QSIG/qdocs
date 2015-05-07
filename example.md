@@ -14,9 +14,7 @@ permalink: /docs/example/
 
 #### Heading 4
 
-> An aside
-> Looks like
-> this
+> An aside looks like this
 
 ```
 code code
@@ -30,8 +28,8 @@ code code
 1. Numbered
 2. points
 
-[mylink][{{ page.url | prepend: site.baseurl}}]
+[mylink][https://github.com/BES-QSIG/qdocs/blob/master/example.md]
 
 
 My lovely cat.
-![cat][{{ site.imgurl }}/mara_cat.jpg]
+![cat][https://raw.githubusercontent.com/BES-QSIG/qdocs/master/img/mara_cat.jpg]
