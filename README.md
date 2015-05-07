@@ -1,2 +1,1 @@
-# docs
-All CGE docs
+# Markdown quantitative guides
