@@ -28,8 +28,8 @@ code code
 1. Numbered
 2. points
 
-[mylink][https://github.com/BES-QSIG/qdocs/blob/master/example.md]
+[mylink](https://github.com/BES-QSIG/qdocs/blob/master/example.md)
 
 
 My lovely cat.
-![cat][https://raw.githubusercontent.com/BES-QSIG/qdocs/master/img/mara_cat.jpg]
+![cat](https://raw.githubusercontent.com/BES-QSIG/qdocs/master/img/mara_cat.jpg)
